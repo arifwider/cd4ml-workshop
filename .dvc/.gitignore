@@ -7,3 +7,12 @@
 /state-wal
 /cache
 /tmp
+
+state
+state.lock
+link.state
+link.state.lock
+lock
+config.local
+updater
+cache
